@@ -1,2 +1,3 @@
 <h1> HELLO WORLD
 Hey Diary!
+The world is kind.
